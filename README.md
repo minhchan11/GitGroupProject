@@ -13,6 +13,7 @@ After this lesson you should already be able to:
 **Agenda**
 * First, clone or download the repository from GitHub
     * `git clone https://github.com/minhchan11/GitGroupProject.git`
+    * `cd GitGroupProject`
 * Create your own branch and check out that branch
     * `git checkout -b yourbranchname`
 * Fix the error in the Jupyter Notebook, save changes, add and commit after every fix
